@@ -15,7 +15,8 @@
 
 ##### 1. Implementing WEB server 
 
-Implement server on AWS ubuntu EC2 with node.js, express.js, MYSQL/MongoDB
+* Implement server on AWS ubuntu EC2 with node.js, express.js, MYSQL or MongoDB
+* Implement functions such as post, delete, get, search, userDB using oath 2.0
 
 ***Sub-Project*** 
 
