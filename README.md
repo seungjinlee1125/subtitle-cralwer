@@ -17,7 +17,7 @@
 
 Implement server on AWS ubuntu EC2 with node.js, express.js, MYSQL/MongoDB
 
-***Sub-project*** 
+***Sub-Project*** 
 
 Implementing server which collects data such as temperature, humidity from IoT connected sensor using ESP8266, ESP32 or Arduino with Wifi Shield...
 
