@@ -2,7 +2,7 @@
 
 ## Oveview
 
-* While I have been studying English nowadays, I realized that some needs for looking into some example sentences, which are spoken by real natives. However, whenever I try to find it, I always find it difficult to be convinced. Therefore, I've been thinking about **the English studying support program** which finds subtitle files with various extensions and save them to the database and shows requested result with the contexts.
+* While I have been studying English in U.S. nowadays, I realized that some needs for looking into some example sentences, which are spoken by real natives. However, whenever I try to find it, I always find it difficult to be convinced. Therefore, I've been thinking about **the English studying support program** which finds subtitle files with various extensions and save them to the database and shows requested result with the contexts.
 
 * Since I've never experienced general development project with databases, it would be the great chance for me to start Web Development. I expect that I would be able to work with several web frameworks, libraries, version control tools and cloud services like AWS, Azure.
 
